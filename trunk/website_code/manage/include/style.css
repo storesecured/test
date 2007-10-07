@@ -1,0 +1,183 @@
+A.link
+{
+	TEXT-DECORATION: none;
+	COLOR: #0066cc;
+	FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
+    
+}
+A.question
+{
+	TEXT-DECORATION: none;
+	COLOR: #ffffff;
+	FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
+    LINE-HEIGHT: 25px;
+        
+}
+A.link:hover
+{
+    TEXT-DECORATION: underline
+}
+A.help
+{
+    FONT-SIZE: 10px;
+    CURSOR: help;
+    COLOR: #0066cc
+}
+
+td.helpAvailable
+{
+    PADDING: 5px;
+    TEXT-ALIGN: right;
+    BACKGROUND: #dddddd
+}
+
+TD.pagetitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    BORDER-BOTTOM: #000000 1px solid;
+    
+}
+
+
+TD.saved
+{
+    FONT-SIZE: 12px;
+    PADDING: 5px;
+    BACKGROUND-COLOR: 00FF33;
+    COLOR: white;
+
+}
+TD.error
+{
+    FONT-SIZE: 12px;
+    PADDING: 5px;
+    BACKGROUND-COLOR: red;
+    COLOR: white;
+
+}
+
+TD
+{
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
+    FONT-SIZE: 10pt;
+    VERTICAL-ALIGN: top;
+    COLOR: #000000;
+
+}
+
+TD.title
+{
+    PADDING: 5px;
+    FONT-SIZE: 16pt;
+    BACKGROUND-COLOR: #ffffff
+}
+TD.special
+{
+    PADDING: 2px;
+    FONT-WEIGHT: bold;
+}
+TD.inputname,TD.inputvalue
+{
+    PADDING-LEFT: 5px;
+    BORDER-BOTTOM: #dddddd 1px solid;
+}
+TABLE.list
+{
+border: 1px solid #000000;
+}
+
+td.instructions
+{
+    FONT-SIZE: 8pt;
+    PADDING: 5px;
+}
+
+.Buttons
+{
+    FONT-SIZE: 8pt;
+    MARGIN-LEFT: 1px;
+    MARGIN-RIGHT: 1px;
+    ALIGN: right
+}
+
+.AdminBar
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-WEIGHT: 600;
+    FONT-SIZE: 14px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    COLOR: #ffffff;
+    LINE-HEIGHT: 25px;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #0066cc;
+    TEXT-DECORATION: none
+}
+.AdminHeader
+{
+    BORDER-RIGHT: medium none;
+    PADDING-RIGHT: 4px;
+    BORDER-TOP: medium none;
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: 600;
+    FONT-SIZE: 13px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    BORDER-LEFT: medium none;
+    COLOR: #222222;
+    LINE-HEIGHT: 21px;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #dddddd
+}
+td.tableHead
+{
+    PADDING-LEFT: 5px;
+    PADDING-RIGHT: 5px;
+    BACKGROUND-COLOR: #ffd287
+}
+
+td.0,td.1
+{
+	PADDING-RIGHT: 10px;
+    BORDER-TOP: #dcdcdc 1px solid;
+    PADDING-LEFT: 10px;
+    PADDING-BOTTOM: 0px;
+    COLOR: #222222;
+    PADDING-TOP: 3px;
+	FONT-FAMILY: Arial;
+    
+}
+td.0
+{
+    BACKGROUND-COLOR: #EFEFEF;
+    BORDER-BOTTOM: #969696 1px;
+    
+
+}
+td.1
+{
+    BACKGROUND-COLOR: #FFFFFF;
+
+}
+BODY
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+INPUT.char
+{
+    FONT-SIZE: 8pt;
+    FONT-STYLE: italic;
+    BORDER: #dddddd 0px solid;
+    WIDTH: 30px
+}
+

@@ -1,0 +1,61 @@
+td{  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #595959}
+body{margin: 0px; background-image: URL(images/bg.gif);}
+.bodytext{  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #595959}
+
+.bluetext{  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #657CA6}
+
+.black{  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #000000}
+
+.testimonials {  font-family: courier, monospace; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #502901}
+
+.whitetitle {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #ffffff}
+
+.browntitle {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #472A2C}
+
+.greentitle {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #3A3F14}
+
+.whitebold {  font-family: arial, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #ffffff}
+
+.bluetitle {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #3A5185}
+
+.gray {text-decoration: none; font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; color: #4D5258}
+
+.header1 {  font-family: arial, sans-serif; font-size: 11pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #526290}
+
+h1 {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #FFFFFF; padding-top: 0px;  padding-bottom: 0px}
+
+h2 {  font-family: arial, sans-serif; font-size: 11pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #526290}
+
+.header2 {  font-family: arial, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #526290}
+
+.header2 {  font-family: arial, sans-serif; font-size: 10pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #526290}
+
+.header3 {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #636363}
+
+a.title {text-decoration: none; font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; color: #FFFFFF; padding-top: 0px;  padding-bottom: 0px}
+
+a.title:hover {text-decoration: none; font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; color: #FFFFFF; padding-top: 0px;  padding-bottom: 0px}
+
+a {text-decoration: none; font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; color: #0F7AA5; padding-top: 0px;  padding-bottom: 0px}
+
+a:hover {text-decoration: underline; font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; color: #0F7AA5; padding-top: 0px;  padding-bottom: 0px}
+
+a.footer {text-decoration: none; font-family: arial, sans-serif; font-size: 8pt; font-style: normal; line-height: normal; font-weight: normal; color: #4D544B}
+
+a.footer:hover {text-decoration: underline; font-family: arial, sans-serif; font-size: 8pt; font-style: normal; line-height: normal; font-weight: normal; color: #4D544B}
+
+.footer {text-decoration: none; font-family: arial, sans-serif; font-size: 8pt; font-style: normal; line-height: normal; font-weight: normal; color: #4D544B}
+
+.bold {  font-family: arial, sans-serif; font-size: 9pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #575757}
+
+
+
+
+
+ul {list-style: disc url(images/bullet.gif) outside;   margin-top:0px; margin-bottom:0px; margin-left:0px; padding-left: 10px;  font-size:9pt; font-family: arial, sans-serif; color: #595959}
+
+li{font-size:9pt; font-family: arial, sans-serif; color: #595959; margin-top:5px; } 
+
+ul.other {list-style: disc  inside;   margin-top:0px; margin-bottom:0px; margin-left:0px; padding-left: 0px;  font-size:9pt; font-family: arial, sans-serif; color: #323232}
+
+

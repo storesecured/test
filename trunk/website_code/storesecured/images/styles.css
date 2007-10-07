@@ -1,0 +1,40 @@
+td {  font-family: arial; font-size: 10pt; font-style: normal; line-height: normal; font-weight: normal; text-decoration: none; color: #000000}
+H1 {  font-family: arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #000000}
+H2 {  font-family: arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: bold; text-decoration: none; color: #000000}
+
+.Arial10Black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.Arial10Black:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #4868A9;
+}
+.inputboxes {
+	height: 21px;
+	width: 114px;
+}
+.Arial14White {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.navigation2 {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #D0CEA8;
+}
+.navigation2:hover {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.Arial11Black {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}

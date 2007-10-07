@@ -1,0 +1,2 @@
+ship class	Name	Matrix low	Matrix High	Base Fee	Weight fee	Countries	Ship Location	Zip Start	Zip End	Always Insert
+4	UPS	3	9.99	8.99	10	All Countries	test	31524	31525	N

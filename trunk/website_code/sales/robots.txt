@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /captures/
+Disallow: /images/
+Disallow: /aspnet_client/
+Disallow: /zoom/

@@ -1,2 +1,0 @@
-Email Address	First Name	Last Name
-Barney@email.com	Barney	Rubble

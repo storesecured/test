@@ -1,2 +1,0 @@
-Coupon Id	Name	Start Date	End Date	Type	Coupon Amount	Total Usage	Customer Usage	Purchase Min	Purchase Max	Discount Available On
-10OFF	10% off anything	5/8/2003	6/8/2003	0	10	50	2	10	50	All

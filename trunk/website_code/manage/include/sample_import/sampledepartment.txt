@@ -1,3 +1,0 @@
-Department ID	Department Name	Department Description	Parent	Image Path	Department Html	Visible	View Order	Meta Keywords	Meta Description	Protect Page	Show Name	Meta Title	Department Html Bottom
-	Clothing	Various items for men	Main Department	redshirt.gif	any html	Y	1	test keyword	A description for this Department	Y	Y		
-	Mens	Various items for men	Clothing	redshirt.gif	any html	Y	1	test keyword 2	A description for this Department	Y	Y		

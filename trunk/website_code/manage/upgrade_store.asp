@@ -1,5 +1,0 @@
-<%
-
-response.redirect "billing.asp"
-
-%>

@@ -1,0 +1,3 @@
+Zip Name	Zip Start	Zip End	Tax Rate	Department Ids	Tax Shipping
+San Diego County	91000	91999	7.75		N
+Los Angeles County	90000	90999	5		Y

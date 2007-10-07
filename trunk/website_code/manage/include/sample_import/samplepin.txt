@@ -1,0 +1,2 @@
+Item Sku	Pin	Other Info
+UST1001	A1001	Pin Info

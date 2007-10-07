@@ -1,0 +1,111 @@
+.content td,th{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#33535D;
+}
+a{
+	text-decoration:none;
+	color:#B11F0F;
+}
+a:hover{
+	text-decoration:underline;
+}
+.link1{
+	font-weight:bold;
+	color:#B3D2E1;
+}
+.link2{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.link1:hover, .link2:hover{
+	color:#FFFFFF;
+}
+.hdr{
+	font-weight:bold;
+	color:#FFFFFF;
+	font-size:16px;
+}
+th{
+	background-color:#00517B;
+	font-weight:bold;
+	color:#FFFFFF;
+	font-size:11px;
+	text-align:left;
+}
+.date{
+	font-weight:bold;
+	color:#006385;
+}
+.design{
+	color:#C8DCEB;
+}
+.design:hover{
+	color:#FFFFFF;
+}
+.linktbl {
+	font-weight:normal;
+	color:#33535D;
+	text-decoration: none;
+}
+.linktbl:hover {
+	font-weight:normal;
+	color:#C82311;
+	text-decoration: none;
+}
+.white {
+	color: #FFFFFF;
+}
+.tablehead {
+	color: #FFFFFF;
+	height: 30px;
+}
+.link {
+	color: #B11F0F;
+}
+.buttons {
+	height: 25px;
+	width: 175px;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	cursor: hand;
+	margin: 1px;
+}.btn2{
+	height: 20px;
+	width: 160px;
+	border: 0px outset #00517B;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	background-color: #017FBA;
+	font-style: normal;
+	cursor: hand;
+	margin: 1px;
+}
+.inp {
+	width: 250px;
+}
+tr.0 {
+     background-color: #FFFFFF;
+}
+tr.1 {
+     background-color: #ECEFF0;
+}
+.tpage
+{
+    BACKGROUND-COLOR: #D4DEE5;
+}
+
+.xtpage
+{
+    BACKGROUND-COLOR: #D4DEE5;
+}
+INPUT.char
+{
+    FONT-SIZE: 6.5pt;
+    FONT-STYLE: italic;
+    BORDER: #dddddd 0px solid;
+    WIDTH: 30px
+}
+

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+<Company_Info>
+        <Company_Name>Easystorecreator</Company_Name>
+        <Address_1>2434 Bear Rock Glen</Address_1>
+        <Address_2 />
+        <City_Town>Escondido</City_Town>
+        <State_Province>CA</State_Province>
+        <Zip_Postal_Code>92026</Zip_Postal_Code>
+        <Country>USA</Country>
+        <Company_WebSite_URL>http://www.easystorecreator.com</Company_WebSite_URL>
+<Contact_Info>
+        <Author_First_Name>Melanie</Author_First_Name>
+        <Author_Last_Name>Black</Author_Last_Name>
+        <Author_Email>mblack@easystorecreator.com</Author_Email>
+        <Contact_First_Name>Melanie</Contact_First_Name>
+        <Contact_Last_Name>Black</Contact_Last_Name>
+        <Contact_Email>sales@easystorecreator.com</Contact_Email>
+    </Contact_Info>
+<Support_Info>
+        <Sales_Email>sales@easystorecreator.com</Sales_Email>
+        <Support_Email>support@easystorecreator.com</Support_Email>
+        <General_Email>info@easystorecreator.com</General_Email>
+        <Sales_Phone>866-324-2764</Sales_Phone>
+        <Support_Phone>866-324-2764</Support_Phone>
+        <General_Phone>866-324-2764</General_Phone>
+        <Fax_Phone>866-324-2764</Fax_Phone>
+    </Support_Info>
+</Company_Info>
+<Program_Info>
+        <Program_Name>Easystorecreator</Program_Name>
+        <Program_Version />
+        <Program_Release_Month>01</Program_Release_Month>
+        <Program_Release_Day>01</Program_Release_Day>
+        <Program_Release_Year>2001</Program_Release_Year>
+        <Program_Cost_Dollars>15</Program_Cost_Dollars>
+        <Program_Cost_Other_Code />
+        <Program_Cost_Other />
+        <Program_Type>Commercial</Program_Type>
+        <Program_Release_Status>Major Update</Program_Release_Status>
+        <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+        <Program_OS_Support>Win 3.1x,Win95,Win98,WinME,WinNT 3.x,WinNT 4.x,WinXP,Windows2000,Windows CE,Unix,Linux,MS-DOS,AS/400,OS/2,OS/2 Warp,OS/2 Warp 4,MAC 68k,Mac PPC</Program_OS_Support>
+        <Program_Language>English</Program_Language>
+<File_Info>
+        <Filename_Versioned />
+        <Filename_Previous />
+        <Filename_Generic />
+        <Filename_Long />
+        <File_Size_Bytes />
+        <File_Size_K />
+        <File_Size_MB />
+    </File_Info>
+<Expire_Info>
+        <Has_Expire_Info>N</Has_Expire_Info>
+        <Expire_Count />
+        <Expire_Based_On>Days</Expire_Based_On>
+        <Expire_Other_Info />
+        <Expire_Month />
+        <Expire_Day />
+        <Expire_Year />
+    </Expire_Info>
+        <Program_Change_Info />
+        <Program_Specific_Category>Business</Program_Specific_Category>
+        <Program_Categories>Ecommerce Tools</Program_Categories>
+        <Program_System_Requirements />
+        <Includes_JAVA_VM>N</Includes_JAVA_VM>
+        <Includes_VB_Runtime>N</Includes_VB_Runtime>
+        <Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+<Program_Descriptions>
+<English>
+        <Keywords>shopping cart, website builder, payment processor, accept credit cards online, site builder, ecommerce website</Keywords>
+        <Char_Desc_45>Store builder software for small businesses</Char_Desc_45>
+        <Char_Desc_80>Free store builder software for small to medium sized companies</Char_Desc_80>
+        <Char_Desc_250>Easystorecreator offers an easy and affordable way to build an on-line store for your small business. Create an e-commerce website from your personal computer with our easy to use point and click interface.</Char_Desc_250>
+        <Char_Desc_450>Easystorecreator offers an easy and affordable way to build an on-line store for your small business. Create an e-commerce website from your personal computer with our easy to use point and click interface. Easystorecreator comes with many powerful features including a step by step wizard for first time users, inventory management, promotions, gift certificates, coupons, affiliate tracking, order management, shipping, taxes, 75 templates and more</Char_Desc_450>
+        <Char_Desc_2000>Easystorecreator offers an easy and affordable way to build an on-line store for your small business. Create an e-commerce website from your personal computer with our easy to use point and click interface. Easystorecreator comes with many powerful features including a step by step wizard for first time users, inventory management, promotions, gift certificates, coupons, affiliate tracking, order management, shipping, taxes, 75 pre-designed templates, and much more. Easystorecreator's low monthly rates include hosting, domain name registration and store builder software. Customer service and technical support is provided free of charge to all customers via email or phone.</Char_Desc_2000>
+</English>
+</Program_Descriptions>
+<Web_Info>
+<Application_URLs>
+        <Application_Info_URL>http://www.easystorecreator.com</Application_Info_URL>
+        <Application_Order_URL>http://www.easystorecreator.com/free-trial.asp</Application_Order_URL>
+        <Application_Screenshot_URL />
+        <Application_Icon_URL />
+        <Application_XML_File_URL />
+    </Application_URLs>
+<Download_URLs>
+        <Primary_Download_URL />
+        <Secondary_Download_URL />
+        <Additional_Download_URL_1 />
+        <Additional_Download_URL_2 />
+    </Download_URLs>
+</Web_Info>
+<Permissions>
+        <Distribution_Permissions />
+        <EULA />
+</Permissions>
+<ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number />
+</ASP>
+</XML_DIZ_INFO>

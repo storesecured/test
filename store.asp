@@ -43,6 +43,7 @@ if noRecords = 0 then
         end if
     Next
 else
+    Response.Status = "404 Not found"
     response.Write "Could not find a matching store"
 end if
 
